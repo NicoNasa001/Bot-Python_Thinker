@@ -1,0 +1,7 @@
+{
+    "pawn": 200,
+    "knight": 500,
+    "bishop": 500,
+    "rook": 800,
+    "queen": 900
+}
